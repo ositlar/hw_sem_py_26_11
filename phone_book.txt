@@ -1,4 +1,0 @@
-abc1, abc1, abc1, abc1
-abc, abc, abc, abc
-abc, abc, abc, abc
-max, kur, nik, abc
